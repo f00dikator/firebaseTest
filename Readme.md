@@ -1,1 +1,3 @@
-Add any functions to the index.js as exportable...
+Functions for firebase 
+
+see instructions.txt
