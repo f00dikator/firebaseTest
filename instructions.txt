@@ -6,5 +6,5 @@ firebase login
 firebase init firestore
 firebase init functions
 move the index.jsp from this repo into the 'functions' folder
-optional: test in the emulator (recommended)
+optional: test in the emulator (recommended) - firebase emulators:start
 firebase deploy --only functions
